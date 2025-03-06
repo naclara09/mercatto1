@@ -1,0 +1,51 @@
+Nome,Preço,Quantidade,Categoria
+Arroz 5kg, 22.90, 100, Alimentos
+Feijão 1kg, 7.50, 150, Alimentos
+Óleo de soja 900ml, 8.90, 20, Alimentos
+Açúcar 1kg, 4.20, 75, Alimentos
+Macarrão 500g, 3.50, 89, Alimentos
+Sal 1kg, 1.43, 70, Alimentos
+Farinha de trigo 1kg, 5.89, 30, Alimentos
+Café 100g, 5.59, 40, Alimentos
+Ovo 30un, 23.99, 30, Alimentos
+Pão Integral(pacote),12.99, 20, Alimentos
+Leite Condensado 395g, 8.98, 15, Laticínios
+Creme de Leite 200g, 3.43, 15, Laticínios
+Leite 1L, 6.80, 20, Laticínios
+presunto 1kg, 25.99, 12 , Laticínios
+Queijo mussarela 500g, 24.50, 15, Laticínios
+Margarina 500g, 7.90, 15, Laticínios
+Requeijão 200g, 9.99, 17, Laticínios
+Salgadinho 160g, 2.54, 15, Doces e Snacks
+Biscoito recheado 140g, 2.99, 40, Doces e Snacks
+Chocolate 90g, 5.50, 25, Doces e Snacks
+fini bala 80g, 5.18, 20, Doces e Snacks
+Nutella 350g, 15.90, 15, Doces e Snacks
+Água 500ml, 1.89, 60, Bebidas
+Refrigerante 2L, 9.50, 20, Bebidas
+iogurte 1.25kg, 16.45, 12, Bebidas
+Achocolatado 200ml, 2.34, 15, Bebidas
+Suco de laranja 1L, 6.90, 15, Bebidas
+Cerveja lata 350ml, 3.80, 50, Bebidas
+Caranguejo 350ml, 3.43, 50, Bebidas
+Shampoo 350ml, 14.90, 10, Higiene
+Condicionador 250ml, 12.78, 10, Higiene
+Sabonete 90g, 2.50, 30, Higiene
+Papel higiênico 4 rolos, 8.90, 15, Higiene
+Protetor Solar 200ml, 69.90,20, Higiene
+Creme Dental 90g, 16.99, 20, Higiene
+Detergente 500ml, 2.99,21, Limpeza
+Alcool Liquido 1L, 9.32, 20, Limpeza
+Desinfetante 1L, 9.90, 12, Limpeza
+Água sanitária 1L, 4.50, 18, Limpeza
+Carne bovina 1kg, 39.90, 8, Açougue
+Coxa de Frango 1kg, 15.76, 10, Açougue
+Linguiça Calabresa 800g,19.90, 12, Açougue
+Morango 250g, 4.99, 6, Hortifruti
+Banana kg, 2.46, 9, Hortifruti
+Maracujá kg, 8.90, 10, Hortifruti
+Abacaxi un, 6.99, 12, Hortifruti
+Cebola 1kg, 4.59, 20, Hortifruti
+Tomate 1kg, 7.89, 18, Hortifruti
+Batata 1kg, 5.99, 27, Hortifruti
+Alho un, 3.31, 15, Hortifruti
